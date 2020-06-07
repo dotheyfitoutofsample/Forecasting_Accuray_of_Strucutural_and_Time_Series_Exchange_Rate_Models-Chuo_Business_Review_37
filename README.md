@@ -1,2 +1,2 @@
 # chuo_business_review_37
-back test codes of "Predictability of strucutral foreign exchange rate models"
+back test codes of "forecasting accuracy of strucutral and time series exchange rate models"
